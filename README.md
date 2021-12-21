@@ -1,5 +1,5 @@
 # Tecnologia-da-Informática
-Tecnologia da Informática, cadeira 1º ano 1º semestre
+Tecnologia da Informática, cadeira do 1º ano 1º semestre de Engenharia Informática na universidade de Coimbra
 
 
 
