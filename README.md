@@ -1,4 +1,4 @@
-# TI-Tecnologia-da-Inform-tica-
+# TI-Tecnologia-da-Informática-
 Tecnologia da Informática, cadeira 1º ano 1º semestre
 
 
